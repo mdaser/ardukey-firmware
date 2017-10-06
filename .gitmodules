@@ -1,0 +1,3 @@
+[submodule "src/libraries/Keyboard"]
+	path = src/libraries/Keyboard
+	url = git@github.com:mdaser/Keyboard.git
